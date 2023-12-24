@@ -1,4 +1,4 @@
-B BB
+B BB XX
 C CC
 D DD 
 E EE
